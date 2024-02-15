@@ -1,0 +1,19 @@
+﻿  chunk.c
+  compiler.c
+  debug.c
+C:\SITA\workspaces\cinterperter2\debug.c(24,20): warning C4013: 'simpleInstruction' undefined; assuming extern returning int
+C:\SITA\workspaces\cinterperter2\debug.c(62,20): warning C4013: 'byteInstruction' undefined; assuming extern returning int
+C:\SITA\workspaces\cinterperter2\debug.c(66,20): warning C4013: 'jumpInstruction' undefined; assuming extern returning int
+C:\SITA\workspaces\cinterperter2\debug.c(86,20): warning C4013: 'invokeInstruction' undefined; assuming extern returning int
+  main.c
+  memory.c
+  object.c
+  table.c
+  value.c
+  vm.c
+  Generating code
+  10 of 166 functions ( 6.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    27 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  cinterperter2.vcxproj -> C:\SITA\workspaces\cinterperter2\x64\Release\cinterperter2.exe

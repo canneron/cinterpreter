@@ -1,0 +1,10 @@
+C:\SITA\workspaces\cinterperter2\chunk.c;C:\SITA\workspaces\cinterperter2\x64\Debug\chunk.obj
+C:\SITA\workspaces\cinterperter2\compiler.c;C:\SITA\workspaces\cinterperter2\x64\Debug\compiler.obj
+C:\SITA\workspaces\cinterperter2\debug.c;C:\SITA\workspaces\cinterperter2\x64\Debug\debug.obj
+C:\SITA\workspaces\cinterperter2\main.c;C:\SITA\workspaces\cinterperter2\x64\Debug\main.obj
+C:\SITA\workspaces\cinterperter2\memory.c;C:\SITA\workspaces\cinterperter2\x64\Debug\memory.obj
+C:\SITA\workspaces\cinterperter2\object.c;C:\SITA\workspaces\cinterperter2\x64\Debug\object.obj
+C:\SITA\workspaces\cinterperter2\scanner.c;C:\SITA\workspaces\cinterperter2\x64\Debug\scanner.obj
+C:\SITA\workspaces\cinterperter2\table.c;C:\SITA\workspaces\cinterperter2\x64\Debug\table.obj
+C:\SITA\workspaces\cinterperter2\value.c;C:\SITA\workspaces\cinterperter2\x64\Debug\value.obj
+C:\SITA\workspaces\cinterperter2\vm.c;C:\SITA\workspaces\cinterperter2\x64\Debug\vm.obj

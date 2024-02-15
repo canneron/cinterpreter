@@ -1,0 +1,3 @@
+﻿  compiler.c
+C:\SITA\workspaces\cinterperter2\compiler.c(330,25): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'ParseFn'
+  cinterperter2.vcxproj -> C:\SITA\workspaces\cinterperter2\x64\Debug\cinterperter2.exe
